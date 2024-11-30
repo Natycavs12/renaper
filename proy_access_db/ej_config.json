@@ -1,0 +1,29 @@
+{
+    "DEFAULT": {
+        "DB_NAME": "db_name_default",
+        "DB_USER": "db_user_default",
+        "DB_PASSWORD": "db_password_default"
+    },
+    "DESARROLLO": {
+        "DB_NAME": "db_name_testing",
+        "oracle_username": "db_username_testing",
+        "oracle_password": "db_password_testing",
+        "oracle_dsn": "db_dsn_testing"
+    },
+    "CLIENT_HML": {
+        "client_id": "client_id_hml",
+        "client_secret": "client_secret_hml"
+    },
+    "CLIENT_PRD": {
+        "client_id": "client_id_prd",
+        "client_secret": "client_secret_prd"
+    },
+    "API_HEADERS_HML":{
+        "headerKey": "headerKe_hml",
+        "headerValue" :"headerValue_hml"
+    },
+    "API_HEADERS_PRD":{
+        "headerKey": "headerKey_prd",
+        "headerValue" :"headerValue_prd"
+    }
+}

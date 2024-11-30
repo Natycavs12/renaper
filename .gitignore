@@ -1,0 +1,15 @@
+env
+varios
+proy_access_db/__pycache__
+proy_access_db/backs
+proy_access_db/backs_codigos_py
+proy_access_db/LOTES
+proy_access_db/clave.key
+proy_access_db/codigos_error.txt
+proy_access_db/config.json
+proy_access_db/config.json.encrypted
+proy_access_db/errores.txt
+proy_access_db/exceptions.txt
+proy_access_db/logs.txt
+proy_access_db/resumen_fallecidos.txt
+proy_access_db/app_fechas.py
